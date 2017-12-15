@@ -1,5 +1,5 @@
 # node-angular-starter
-This is the starter template for all Sabio cohort projects.
+This is the starter template for all projects.
 
 # Server Side
 **server.js** acts as the main file or entry point into the application. From here, server.js sets up the necessary configurations such as:
